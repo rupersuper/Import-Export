@@ -1,0 +1,23 @@
+{
+  "name": "importexport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupersuper/Import-Export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupersuper/Import-Export/issues"
+  },
+  "homepage": "https://github.com/rupersuper/Import-Export#readme",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
